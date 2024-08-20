@@ -3152,7 +3152,9 @@ ul.checkmark li:before {
 	font-weight: 700;
 	border: 1px solid #fff;
 }
-
+.section-heading.text-center.text-light p::after {
+    color: white;
+}
 .parallax-slider .header-text {
     margin-left: 5%;
     width: 60%!important;
